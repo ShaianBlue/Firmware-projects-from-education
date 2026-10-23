@@ -1,0 +1,13 @@
+../Core/Src/main.c:110:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:120:6:timer11_custom_callback	24	static
+../Core/Src/main.c:159:6:activate_next_column	16	static
+../Core/Src/main.c:170:6:timer10_custom_callback	8	static
+../Core/Src/main.c:196:6:infrared_UART	24	static
+../Core/Src/main.c:220:5:main	16	static
+../Core/Src/main.c:279:6:SystemClock_Config	88	static
+../Core/Src/main.c:326:13:MX_TIM2_Init	48	static
+../Core/Src/main.c:375:13:MX_TIM10_Init	8	static
+../Core/Src/main.c:406:13:MX_TIM11_Init	8	static
+../Core/Src/main.c:437:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:470:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:516:6:Error_Handler	4	static,ignoring_inline_asm
