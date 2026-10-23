@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="Opgave 2.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>262144</length>                 
+      <used>2067</used>                     
+      <free>260077</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>8192</length>                 
+      <used>2</used>                     
+      <free>8190</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
